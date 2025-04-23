@@ -1,0 +1,13 @@
+{/Users/devoncoyl/Library/Mobile Documents/com~apple~TextEdit/Documents/package.json
+  "name": “tiktok-downloader”,
+  "version": "1.0.0",
+  "description": "Automatically generates landing pages using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "express": "^4.18.2"
+  }
+}
